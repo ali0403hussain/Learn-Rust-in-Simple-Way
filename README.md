@@ -3,7 +3,7 @@
 Programming languages usually have some tradeoffs. There are low level languages like C anc C++ usually have speed and control at the cost of memory safety. On the other hand, we high level languages such as python or java script are more safer but are not very efficient from power and speed perspectives. With rust we have best of both the worlds. More specifically, it is a system programming language which means they have speed and control but at the same time are much much better because of the safety features just like high level languages. This makes rust so clearly standout among all the other programming languages.<br />
 
 ## How to Install Rust?
-(Official Web site Link)[https://www.rust-lang.org/]
+[Official Web site Link](https://www.rust-lang.org/)
 All necessary information is present on this official website. <br />
 I am using Windows Subsystem for Linux, so i follow this
 ```ruby
@@ -74,7 +74,7 @@ source "$HOME/.cargo/env.fish"  # For fish
 ```
 ## Editor
 I will recommend to use the Visual Studio Code Editor. For installation go to
-(VSCode)[https://code.visualstudio.com/docs/setup/windows] <br />
+[VSCode](https://code.visualstudio.com/docs/setup/windows) <br />
 Installing Rust-analyzer extension in VsCode.<br />
 ## Rust Compiler and Package Manager
 * Check in VsCode trminal weither rust compiler is installed or not by typing rustc --version. 
@@ -84,56 +84,56 @@ Installing Rust-analyzer extension in VsCode.<br />
 ## Links to Useful Books on Rust
 ### Resources Covering Basic Concepts of the Language
 1. Official rust programming language book. Recommended book for those who are new to rust.
-(Rust Programming Language)[https://doc.rust-lang.org/book/]
+[Rust Programming Language](https://doc.rust-lang.org/book/)
 2. A recommended book for those who want to quickly learn through examples with lesser focus on theory.
-(Rust by Example)[https://doc.rust-lang.org/rust-by-example/print.html]
+[Rust by Example](https://doc.rust-lang.org/rust-by-example/print.html)
 Description: 
 3. Useful Examples for accomplishing common programming tasks.
-(Rust Cookbook)[https://rust-lang-nursery.github.io/rust-cookbook/print.html]
+[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/print.html)
 4. A text book for those who are not native speakers and want to learn with simple and easy to follow English.
-(Easy Rust)[https://dhghomon.github.io/easy_rust/]
+[Easy Rust](https://dhghomon.github.io/easy_rust/)
 5. A good reference book for the language
-(Rust Reference)[https://doc.rust-lang.org/reference/introduction.html]
+[Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 6. Small exercises to get you used to reading and writing Rust code.
-(Rustlings (online resource only))[https://github.com/rust-lang/rustlings]
+[Rustlings](https://github.com/rust-lang/rustlings)
 7. Quick reference guide and handy reference for programming in rust.
-(Rust CheatSheet)[https://zerotomastery.io/cheatsheets/rust-cheat-sheet/]
+[Rust CheatSheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/)
 
 ### Resources Covering Advance Concepts of the Language
 1. A recommended book for those who are coming from C++/JAVA background and want to develop for Andriod
-(Comprehensive Rust)[https://google.github.io/comprehensive-rust/]
+[Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 2. The book contains techniques that can improve the performance, speed and memory usage
-(The Rust Performance Book)[https://nnethercote.github.io/perf-book/introduction.html]
+[The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 3. It contains many examples and codes that explains the details when writing unsafe Rust programs.
-(The Rustonomicon)[https://doc.rust-lang.org/nomicon/intro.html]
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
 4. Basics of linked lists and different types of smart pointers in Rust.
-(Learn Rust with Entirely Too Many Linked Lists)[https://rust-unofficial.github.io/too-many-lists/]
+[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 5. Useful programming examples and tips for effective rust programming.
-(Rust Programming Tips)[https://github.com/ferrous-systems/elements-of-rust/blob/master/README.md]
+[Rust Programming Tips](https://github.com/ferrous-systems/elements-of-rust/blob/master/README.md)
 
 ### Documentation of the Language
 1. Comprehensive guide to the Rust standard library APIs.
-(Standard Library)[https://doc.rust-lang.org/std/index.html]
+[Standard Library](https://doc.rust-lang.org/std/index.html)
 2. For understanding the Rust's way of introducing changes into the language
-(Edition Guide)[https://doc.rust-lang.org/edition-guide/index.html]
-3. Description: For understanding the package manager of Rust.
-(Cargo Book)[https://doc.rust-lang.org/cargo/index.html]
-4. Description: Listing of all the errors emitted by the compiler
-(Compiler Error Index)[https://doc.rust-lang.org/error_codes/error-index.html]
-5. Description: Understanding the generation of documentation for your code
-(Rustdoc Book)[https://doc.rust-lang.org/rustdoc/index.html]
+[Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
+3. For understanding the package manager of Rust.
+[Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+4. Listing of all the errors emitted by the compiler
+[Compiler Error Index](https://doc.rust-lang.org/error_codes/error-index.html)
+5. Understanding the generation of documentation for your code
+[Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
 
 ### Rust Reference Material/Cheat Sheets list
 Extensive Level Cheat Sheets
 1. An extensive cheat sheet touching almost all important aspects of the languages.
-(The Rust Cheat Sheet by cheats.rs)[https://cheats.rs/]
+[The Rust Cheat Sheet by cheats.rs](https://cheats.rs/)
 2. A detailed overview of the syntax covering both beginner and advance level topics.
-(Rust in a Nutshell)[https://github.com/donbright/rust-lang-cheat-sheet/blob/master/README.md]
+[Rust in a Nutshell](https://github.com/donbright/rust-lang-cheat-sheet/blob/master/README.md)
 3. Another detailed and extensive cheat sheet.
-(Rust Cheat Sheet by Zero to Mastery)[https://zerotomastery.io/cheatsheets/rust-cheat-sheet/]
+[Rust Cheat Sheet by Zero to Mastery](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/)
 4. Intermediate level cheat sheet.
-(LGR Rust Cheat)[https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit]
+[LGR Rust Cheat](https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit)
 5.  Brief and a quick reference.
-(Rust Cheat Sheet by QuickRef.Me)[https://quickref.me/rust.html]
+[Rust Cheat Sheet by QuickRef.Me](https://quickref.me/rust.html)
 6. A one pager cheat sheet.
-(Rust Cheat Sheet)[https://phaiax.github.io/rust-cheatsheet/]
+[Rust Cheat Sheet](https://phaiax.github.io/rust-cheatsheet/)
